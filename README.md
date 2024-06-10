@@ -9,10 +9,10 @@ I used to dabble in many different types of technologies when I was young. When 
 * 🌍  I'm based in Prayagraj
 * 🖥️  See my portfolio at [My Website](http://ayushraj.cc)
 * ✉️  You can contact me at [ayushraj1024@gmail.com](mailto:ayushraj1024@gmail.com)
-* 🚀  I'm currently working on [My Game Studio](http://redseed.cc)
+* 🚀  I'm currently working on [Adapting third party APIs for my organization Graygraph Technologies](http://graygraph.com)
 * 🧠  I'm learning .NET Core
 * 🤝  I'm open to collaborating on Back end development, DevOPS, Video Game Development
-* ⚡  I have worked on so many other tools and technologies which I have not listed here (Matlab, Daz3d, Gamit, etc.)
+* ⚡  I have worked on so many other tools and technologies which I have not listed here (Matlab, Daz3d, Gamit, etc.). PS: I am not an expert in whatever technologies I have listed below. I have just tried them and can use them if needed.
 
 ### Skills
 
