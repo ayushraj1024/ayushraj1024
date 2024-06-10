@@ -1,7 +1,7 @@
 Hi 👋 My name is Ayush Raj
 ==========================
 
-Back End Developer (PHP (Laravel, Wordpress) / Java (JSF, Springboot, Geoserver) / Python (Renpy, Scipy) )
+Back End Developer (PHP (Laravel, Wordpress) / Java (JSF, Springboot, Geoserver) / Python (Renpy, PySAL) )
 ----------------------------------------------------------------------------------------------------------
 
 I used to dabble in many different types of technologies when I was young. When I was in school I used to make video games using flash. Now, I use Python to make visual novels. I also work as a software developer, mainly backend. I can make you a decent (but not amazing) frontend. I engage with clients and am able to understand their needs and translate them to software.
