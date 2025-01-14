@@ -7,9 +7,9 @@ Back End Developer (PHP (Laravel, Wordpress) / Java (JSF, Springboot, Geoserver)
 I used to dabble in many different types of technologies when I was young. When I was in school I used to make video games using flash. Now, I use Python to make visual novels. I also work as a software developer, mainly backend. I can make you a decent (but not amazing) frontend. I engage with clients and am able to understand their needs and translate them to software.
 
 * 🌍  I'm based in Prayagraj
-* 🖥️  See my portfolio at [My Website](http://ayushraj.cc)
+* 🖥️  See my portfolio at [My Website](http://ayushraj.dev)
 * ✉️  You can contact me at [ayushraj1024@gmail.com](mailto:ayushraj1024@gmail.com)
-* 🚀  I'm currently working on [Adapting third party APIs for my organization Graygraph Technologies](http://graygraph.com)
+* 🚀  I'm currently working on [Adapting third party APIs for my organization Graygraph Technologies](https://graygraph.com)
 * 🧠  I'm learning .NET Core
 * 🤝  I'm open to collaborating on Back end development, DevOPS, Video Game Development
 * ⚡  I have worked on so many other tools and technologies which I have not listed here (Matlab, Daz3d, Gamit, etc.). PS: I am not an expert in whatever technologies I have listed below. I have just tried them and can use them if needed.
